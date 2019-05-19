@@ -1,0 +1,13 @@
+rebase 1.
+
+rebase 2.
+
+rebase 3-rebase.
+
+rebase 4-rebase.
+
+rebase edit
+
+rebase 5 drop.
+
+rebase 6.
